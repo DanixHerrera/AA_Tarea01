@@ -1,2 +1,7 @@
 # AA_Tarea01
 Tarea 1: Barras Desordenadas
+
+
+## Bitácora de lo que aprendimos
+
+https://docs.google.com/document/d/1RawkuKFADcGdExmMn2Az93POruLcysSpd-Wnlc1lNS8/edit?usp=sharing
